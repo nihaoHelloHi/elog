@@ -1,0 +1,2 @@
+# elog
+efficient log library
